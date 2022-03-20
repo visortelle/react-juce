@@ -10,8 +10,6 @@
 .cache/
 
 build
-examples/TestRunner/Builds
-examples/**/build
 
 # For VSCode users
 *.code-workspace
