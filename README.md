@@ -43,7 +43,7 @@ In the meantime please direct any questions to discussions or our Discord channe
 - Documentation: [Docs & Getting Started](https://docs.react-juce.dev)
 - Discussions: [GitHub Discussions](https://github.com/JoshMarler/react-juce/discussions)
 - Community: [The Audio Programmer Discord Server](https://discord.gg/3H4wwVf49v)
-  - Join the `#blueprint` channel and say hi!
+  - Join the `#react-juce` channel and say hi!
 
 ## Maintainers
 
