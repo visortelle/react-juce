@@ -10,9 +10,9 @@ React-JUCE is a young project, but already it provides the framework on which th
 
 ![Creative Intent Remnant: Screenshot](_media/RemnantScreenShot.jpg)
 
-Besides that, you can check out the example code in the `examples/` directory. See the "Documentation" section
-below for building and running the demo plugin. If you have a project written with React-JUCE that you want to share, get in touch! I would
-love to showcase your work.
+Besides that, you can check out a selection of example plugins over at [react-juce-examples](https://github.com/JoshMarler/react-juce-examples)
+
+If you have a project written with React-JUCE that you want to share, get in touch! I would love to showcase your work.
 
 ## Contributing
 

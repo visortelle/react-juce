@@ -3,7 +3,6 @@
 ## Guides
 
 - [Getting Started](guides/Getting_Started.md)
-- [Running the Examples](guides/Running_the_Examples.md)
 - [Integrating Your Project](guides/Integrating_Your_Project.md)
 - [Debugging with Duktape](guides/Debugging_With_Duktape.md)
 - [Why Not React Native?](guides/Why_Not_React_Native.md)
