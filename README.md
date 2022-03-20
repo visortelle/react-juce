@@ -2,22 +2,17 @@
 
 > Write cross-platform native apps with React.js and JUCE
 
-
 TODO: Reference Yoga and Hermes/Duktape
 
-React-JUCE is a hybrid JavaScript/C++ framework that enables a [React.js](https://reactjs.org/) frontend for a [JUCE](http://juce.com/) application or plugin.
+React-JUCE is a hybrid JavaScript/C++ framework that enables a [React.js](https://reactjs.org/) UI for a [JUCE](http://juce.com/) application or plugin.
 
 For more information, see the introductory blog post here: [Blueprint: A JUCE Rendering Backend for React.js](https://nickwritesablog.com/blueprint-a-juce-rendering-backend-for-react-js)
 
 ## Status
 
-**Approaching Beta**. We hope to announce a beta release in the coming weeks, after which we will aim our focus at stability and completeness on the path
-to a 1.0 release.
-
-**Anticipated Breaking Changes**
-
-- ~~`ReactApplicationRoot::evaluate` and `ReactApplicationRoot::evaluateFile` (#115)~~
-- ~~Refactoring the hot reloader and decoupling the EcmascriptEngine from ReactApplicationRoot (#65)~~
+**Approaching Beta**. Maintenance/Development of React-JUCE has recently been taken over from Nick Thompson (original creator) by Joshua Marler.
+The repository is going through a temporary restructure but we are pushing towards a stable v1.0. Updates will be posted once v1.0 is hit.
+In the meantime please direct any questions to discussions or our Discord channel.
 
 ## Resources
 
@@ -27,6 +22,8 @@ to a 1.0 release.
   - Join the `#blueprint` channel and say hi!
 
 ## Maintainers
+
+  Originally authored by @nick-thompson, now maintained by @JoshMarler.
 
 - [@joshmarler](https://github.com/JoshMarler)
 - [@nick-thompson](https://github.com/nick-thompson)
@@ -39,7 +36,7 @@ React-JUCE is a young project, but already it provides the framework on which th
 
 Besides that, you can check out a selection of example plugins over at [react-juce-examples](https://github.com/JoshMarler/react-juce-examples)
 
-If you have a project written with React-JUCE that you want to share, get in touch! I would love to showcase your work.
+If you have a project written with React-JUCE that you want to share, get in touch! We would love to showcase your work.
 
 ## Contributing
 
