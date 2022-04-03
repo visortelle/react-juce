@@ -15,28 +15,33 @@ Wait! Have you seen [Elementary](https://github.com/nick-thompson/elementary)?
 OK, why are you pointing me at another project?
 
 React-JUCE and Elementary serve two slightly different audiences. If you're looking to develop audio plugins/apps
-in modern JavaScript, rather than C++, then Elementary is the project for you. React-JUCE allows you to add a
-Javascript/React based UI to your JUCE app? What if we told you there is also a JS based environment for your DSP/Audio
-code (and yes the performance is pretty darn good). You can write your entire plugin (UI and DSP) in JS.
-Yeah, this actually exists. Hot-Reloading is awesome, it makes UI development so much quicker, imagine if you could
-do this with your DSP too...
+in modern, functional JavaScript, Elementary might be the project for you.
+React-JUCE allows you to add a Javascript/React based UI to your JUCE app.
+What if we told you there is also a JS based environment for your DSP/Audio code (and yes the performance is pretty darn good).
+You can write your entire plugin (UI and DSP) in JS. Yeah, this actually exists.
+Hot-Reloading is awesome, it makes UI development so much quicker, imagine if you could do this with your DSP too...
 
 OK, so why React-JUCE?
 
-Well, many reasons. Maybe you have an existing library of C++ DSP/Audio code, perhaps its a library that you've spent
-hard hours (OK, hard years) crafting and you just want a rapid/expressive solution for your UI? React-JUCE is absolutely for you.
-Maybe you're developing embedded Linux apps and you need C++ but want something more expressive more for your UI code?
-React-JUCE is for you. Maybe you hate JavaScript? Wait ... You probably shouldn't be here. Maybe you're just much more
-comfortable writing DSP (or code in general) in C++ and just want to try React for your UI code? React-JUCE is for you.
+Well, many reasons. Maybe you have an existing library of C++ DSP/Audio code,
+perhaps its a library that you've spent hard hours (OK, hard years) crafting and
+you just want a rapid/expressive solution for your UI? React-JUCE is absolutely for you.
+Maybe you're developing embedded Linux apps and you need C++ but want something
+more expressive more for your UI code? React-JUCE could be for you.
+Maybe you hate JavaScript? Wait ... You probably shouldn't be here.
+Maybe you're just much more comfortable writing DSP (or code in general) in C++
+and just want to use React for your UI? React-JUCE is for you.
 
-We believe React-JUCE still has lot to offer and a strong position, so if you've weighed up your pros and cons then jump in, we're
-happy to have you!
+We believe React-JUCE still has lot to offer and a strong position, so if you've
+weighed up your pros and cons then jump in, we're happy to have you!
 
 ## Status
 
-**Approaching Beta**. Maintenance/Development of React-JUCE has recently been taken over from Nick Thompson (original creator) by Joshua Marler.
-The repository is going through a temporary restructure but we are pushing towards a stable v1.0. Updates will be posted once v1.0 is hit.
-In the meantime please direct any questions to discussions or our Discord channel.
+**Approaching Beta**. Maintenance/Development of React-JUCE has recently been
+taken over from Nick Thompson (original creator) by Joshua Marler. The repository
+is going through a temporary restructure but we are pushing towards a stable v1.0.
+Updates will be posted once v1.0 is hit. In the meantime please direct any questions
+to discussions or to our Discord channel.
 
 ## Resources
 
@@ -47,7 +52,7 @@ In the meantime please direct any questions to discussions or our Discord channe
 
 ## Maintainers
 
-  Originally authored by @nick-thompson, now maintained by @JoshMarler.
+Originally authored by @nick-thompson, now maintained by @JoshMarler.
 
 - [@joshmarler](https://github.com/JoshMarler)
 - [@nick-thompson](https://github.com/nick-thompson)

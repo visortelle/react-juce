@@ -1,6 +1,8 @@
 # Getting Started
 
-This guide assumes you have some familiarity with [React.js](https://reactjs.org/) and with [JUCE](https://juce.com/), and it is therefore recommended that you spend some time getting comfortable there, if you're not already, before embarking on this guide.
+This guide assumes you have some familiarity with [React.js](https://reactjs.org/)
+and with [JUCE](https://juce.com/), and it is therefore recommended that you spend
+some time getting comfortable there, if you're not already, before embarking on this guide.
 
 ## Dependencies
 
@@ -16,21 +18,21 @@ itself. React-JUCE's git repository contains necessary submodules, so we'll need
 collect those as well, which we can do one of two ways:
 
 ```bash
-$ git clone --recurse-submodules git@github.com:nick-thompson/react-juce.git
+$ git clone --recurse-submodules git@github.com:JoshMarler/react-juce.git
 ```
 
 or
 
 ```bash
-$ git clone git@github.com:nick-thompson/react-juce.git
+$ git clone git@github.com:JoshMarler/react-juce.git
 $ cd react-juce
 $ git submodule update --init --recursive
 ```
 
 Note that the `git@github.com` prefix here indicates cloning via SSH. If you prefer
-to work with git via HTTPS you'll want to swap in `https://github.com/nick-thompson/react-juce.git`
+to work with git via HTTPS you'll want to swap in `https://github.com/JoshMarler/react-juce.git`
 in the above commands.
 
 At this point, we've got everything ready to get our project up and running.
 
-TODO: Update and point to a "Building your first React-JUCE plugin" page.
+Lets take a look at running one of the plugins from the [react-juce-examples](https://github.com/JoshMarler/react-juce-examples) repo.
